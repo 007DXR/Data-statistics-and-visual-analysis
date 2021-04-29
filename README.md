@@ -31,7 +31,7 @@
 3.通过分析可知，角色的互动和故事情节的发展息息相关，从角色关系图可以宏观领略整部小说。
 
 ### 链接
-#### 点击查看[搜索引擎网页](https://007dxr.github.io/homework_3/task1/《狼王梦》角色关系图.html)
+#### 点击查看[《狼王梦》角色关系图](https://007dxr.github.io/homework_3/task1/《狼王梦》角色关系图.html)
 
 #### 网页预览
 ![](https://github.com/007DXR/007DXR.github.io/blob/main/homework_3/task1/preview.png)
