@@ -22,6 +22,9 @@
 3.选择蓝，红，绿作为三个界面的主题颜色，更加美观大方
 
 ### 链接
+[网页](https://github.com/007DXR/007DXR.github.io/blob/main/homework_3/task2/task2.html)
+
+[预览](https://github.com/007DXR/007DXR.github.io/blob/main/homework_3/task2/preview2.png)
 
 ----------------------------------------------------------------------------------------------
 
